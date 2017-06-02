@@ -3,9 +3,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.SQLException;
 
-/**
- * Created by aprots on 31.05.17.
- */
 public class expenses {
 
     private static final String EXIT_COMMAND = "exit";
