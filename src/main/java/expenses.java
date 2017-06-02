@@ -5,7 +5,6 @@ import java.sql.SQLException;
 
 public class expenses {
 
-
     private static final String EXIT_COMMAND = "exit";
     private static final String ADD_COMMAND = "add";
     private static final String LIST_COMMAND = "list";
